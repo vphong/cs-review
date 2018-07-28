@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Grading Students'/>
+        <page name='Sock Merchant'/>
+        <page name='Longest Common Subsequence'/>
+        <page name='Drawing Book'/>
+        <page name='Counting Valleys'/>
+        <page name='Electronics Shop'/>
+        <page name='Cat and a Mouse'/>
+        <page name='Forming a Magic Square'/>
+    </pages>
+</playground>
